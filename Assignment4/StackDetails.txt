@@ -1,0 +1,20 @@
+-- Folders in Stack--
+
+
+|                   |
+|     English       | <-- Top of the Stack
+|  ComputerScience  |
+|    Statistics     |
+|       Maths       |
+|      Science      |
+---------------------
+
+Files in each folder
+-------------------------------------------------
+Folder Name        FileNumber with FileName List
+-------------------------------------------------
+English            {109-Essays, 110-Reading}
+ComputerScience    {107-Java, 108-Python}
+Statistics         {105-Probability, 106-Distributions}
+Maths              {103-Integration, 104-Matrices}
+Science            {101-Heat, 102-Power}
